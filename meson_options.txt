@@ -1,0 +1,5 @@
+option('wayland_scanner',
+  description: 'The wayland-scanner binary to use',
+  type: 'string',
+  value: ''
+)
